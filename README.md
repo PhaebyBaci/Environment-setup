@@ -23,7 +23,7 @@ successfully installed visual studio code by folowing these following steps
 4. verified the installation by launching visual studio code
 
 Below is the screnshot of the installed visual studio code welcome screen on my pc
-![imageof the vs code page](https://)
+![imageof the vs code page](image/vscode_welcome_page.PNG)
 
 
 ## INSTALLING GIT
@@ -57,18 +57,22 @@ Git merge
 git branch
 ```
 
-Below is the following screenshot of the installed git
-![image of the installed git](https://)
+Below are the following screenshots of the installed git
+![image of the installed git](image/apt_updating.PNG)
+_Image of APT updating before the installation of git_
+![image of the installed git](image/git_installation_on_going.PNG)
+_image of git installing_
 
 ## INSTALLING VIRTUALBOX
 I successfully installed virtualBox by following the steps
 
 1. navigated to the [official VirtualBox Website](https://www.virtualbox.org/)
 2. Downloaded the Window version of virtualBOX
-3. Opened the intaller and followed the on-screen instructions
+3. Opened the installer and followed the on-screen instructions
 4. Launched the installation by confirming virtualBox
 
-![Below is the screenshot of the installed VirtualBox](https://)
+![Below is the screenshot of the installed VirtualBox](image/virtualbox_screeshot.PNG)
+_Image of virtualbox with a running Ubuntu_
 
 ## INSTALLING UBUNTU
 Successfully installed the Ubuntu on VirtualBox following these steps.
@@ -76,22 +80,35 @@ Successfully installed the Ubuntu on VirtualBox following these steps.
 2. Created a new virtual machine in VirtualBox and selected the downloaded ISO file
 3. followed the installation steps required in the virtual machine
 4. The running of ubuntu in the virtual mahine was confirmed
-![screenshot of the ubuntu on the vm](https://)
+![screenshot of the ubuntu on the vm](image/Screen_from_2025-03-31_15-56-14.PNG)
 
-## Setting Up a GitHub Account
+## INSTALLING MOBAXTERM
+I successfully installed MobaXterm by following the steps
+
+1. Mavigated to the [MOBAXTERM](https://mobaxterm.mobatek.net/) 
+2. Downloaded the Window version of MobaXterm
+3. Opened the installer and followed the on-screen instructions
+4. Launched the installation by confirming MobaXterm.
+![Mobaxterm image](image/mobaxterm2.PNG)
+_image of the installed MobaXterm_
+
+7. ## INSTALLING GIT BASH
+I successfully installed Git Bash by following the steps
+
+1. Navigated to the [Git website](https://git-scm.com/)
+2. Downloaded the Window version of Git Bash
+3. Opened the installer and followed the on-screen instructions
+4. Launched the installation by confirming 
+![image of Git bash](image/git_bash_screenshot.PNG)
+_image of installed GitBash_
+
+## SETTING UP A GITHUB ACCOUNT
 the setting up of my github account was done successfully following the guide:
-1. the official site of [GitHub](https://github.com/) was visited
+1. The official site of [GitHub](https://github.com/) was visited
 1. Clicked on the "Sign Up" button and inputted the required fields.
 1. verified my email address and completed the account setup process.
 1. configured git on my local machine to connect with my github account.
 below is the image of my github account dashboard;
-![image of the github account dashboard](https://)
+![image of the github account dashboard](image/github_dashboard_screenshot.PNGinstallingffdde)
+_Image of GitHub dashboard_
 
-## Setting Up an AWS Account
-I was able to successfully set up my AWS account by:
-1. opened the [AWS website](https://github.com/)
-1. Clicked on "Create an AWS Account" and provided the necessary information
-1. verified my identity and payment details
-1. logged into the AWS Management Console to confirm the setup.
-below is the screenshot;
-![screenshot of aws account dashboard](https://)
