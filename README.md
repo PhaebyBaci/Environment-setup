@@ -122,3 +122,11 @@ the setting up of my github account was done successfully following the guide:
 ![image of the github account dashboard](image/github_dashboard_screenshot.PNG)
 __Image of GitHub dashboard__
 
+
+## AWS ACCOUNT SETUP
+1. Navigated to the AWS tier page to start the sign up process as required created an account. 
+1. Provided the necessary account informations required for the registration.
+1. I am unable to complete the account setup due to the difficulty encountered on the 'confirm your identity' page as I was unable to receive the code for the verification.
+
+![image of AWS](image/AWS_setup_page.PNG)
+__Image showing the setup truncation of AWS__
