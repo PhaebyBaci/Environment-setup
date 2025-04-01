@@ -22,7 +22,7 @@ successfully installed visual studio code by folowing these following steps
 3. Opened the downloaded file and followed the installation prompts.
 4. verified the installation by launching visual studio code
 
-Below is the screnshot of the installed visual studio code welcome screen on my pc
+
 ![imageof the vs code page](image/vscode_welcome_page.PNG)
 
 
@@ -57,7 +57,7 @@ Git merge
 git branch
 ```
 
-Below are the following screenshots of the installed git
+
 ![image of the installed git](image/apt_updating.PNG)
 __Image of APT updating before the installation of git__
 
@@ -70,7 +70,7 @@ I successfully installed virtualBox by following the steps
 1. navigated to the [official VirtualBox Website](https://www.virtualbox.org/)
 2. Downloaded the Window version of virtualBOX
 3. Opened the installer and followed the on-screen instructions
-4. Launched the installation by confirming virtualBox
+4. Launched the installation by confirming virtualBox.
 
 ![Below is the screenshot of the installed VirtualBox](image/virtualbox_screenshot.PNG)
 __Image of virtualbox with a running Ubuntu__
@@ -80,7 +80,8 @@ Successfully installed the Ubuntu on VirtualBox following these steps.
 1.Navigated to the ubuntu ISO file from the [official Ubuntu website](https://ubuntu.com/)
 2. Created a new virtual machine in VirtualBox and selected the downloaded ISO file
 3. followed the installation steps required in the virtual machine
-4. The running of ubuntu in the virtual mahine was confirmed
+4. The running of ubuntu in the virtual mahine was confirmed.
+
 ![screenshot of the ubuntu on the vm](image/Screenshot_of_ubuntu.png)
 
 
@@ -91,6 +92,7 @@ I successfully installed MobaXterm by following the steps
 2. Downloaded the Window version of MobaXterm
 3. Opened the installer and followed the on-screen instructions
 4. Launched the installation by confirming MobaXterm.
+   
 ![Mobaxterm image](image/mobaxterm2.PNG)
 __Image of the installed MobaXterm__
 
@@ -101,7 +103,8 @@ I successfully installed Git Bash by following the steps
 1. Navigated to the [Git website](https://git-scm.com/)
 2. Downloaded the Window version of Git Bash
 3. Opened the installer and followed the on-screen instructions
-4. Launched the installation by confirming 
+4. Launched the installation by confirming.
+   
 ![image of Git bash](image/git_bash_screenshot.PNG)
 __Image of installed GitBash__
 
@@ -113,7 +116,7 @@ the setting up of my github account was done successfully following the guide:
 1. Clicked on the "Sign Up" button and inputted the required fields.
 1. verified my email address and completed the account setup process.
 1. configured git on my local machine to connect with my github account.
-below is the image of my github account dashboard;
-![image of the github account dashboard](image/github_dashboard_screenshot.PNGinstallingffdde)
+
+![image of the github account dashboard](image/github_dashboard_screenshot.PNG)
 __Image of GitHub dashboard__
 
