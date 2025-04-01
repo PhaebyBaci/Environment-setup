@@ -24,6 +24,7 @@ successfully installed visual studio code by folowing these following steps
 
 
 ![imageof the vs code page](image/vscode_welcome_page.PNG)
+__Image showing the welcome page of the vs code__
 
 
 ## INSTALLING GIT
@@ -59,10 +60,10 @@ git branch
 
 
 ![image of the installed git](image/apt_updating.PNG)
-__Image of APT updating before the installation of git__
+__Image showing APT updating before the installation of git on cli__
 
 ![image of the installed git](image/git_installation_on_going.PNG)
-__image of git installing__
+__Image showing git installing using the cli__
 
 ## INSTALLING VIRTUALBOX
 I successfully installed virtualBox by following the steps
@@ -73,7 +74,7 @@ I successfully installed virtualBox by following the steps
 4. Launched the installation by confirming virtualBox.
 
 ![Below is the screenshot of the installed VirtualBox](image/virtualbox_screenshot.PNG)
-__Image of virtualbox with a running Ubuntu__
+__Image showing Ubuntu running on the virtualbox__
 
 ## INSTALLING UBUNTU
 Successfully installed the Ubuntu on VirtualBox following these steps.
@@ -83,6 +84,7 @@ Successfully installed the Ubuntu on VirtualBox following these steps.
 4. The running of ubuntu in the virtual mahine was confirmed.
 
 ![screenshot of the ubuntu on the vm](image/Screenshot_of_ubuntu.png)
+__Image show the command line interface of the Ubuntu OS with some ran codes__
 
 
 ## INSTALLING MOBAXTERM
