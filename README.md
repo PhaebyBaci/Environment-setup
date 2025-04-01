@@ -59,9 +59,10 @@ git branch
 
 Below are the following screenshots of the installed git
 ![image of the installed git](image/apt_updating.PNG)
-_Image of APT updating before the installation of git_
+__Image of APT updating before the installation of git__
+
 ![image of the installed git](image/git_installation_on_going.PNG)
-_image of git installing_
+__image of git installing__
 
 ## INSTALLING VIRTUALBOX
 I successfully installed virtualBox by following the steps
@@ -71,8 +72,8 @@ I successfully installed virtualBox by following the steps
 3. Opened the installer and followed the on-screen instructions
 4. Launched the installation by confirming virtualBox
 
-![Below is the screenshot of the installed VirtualBox](image/virtualbox_screeshot.PNG)
-_Image of virtualbox with a running Ubuntu_
+![Below is the screenshot of the installed VirtualBox](image/virtualbox_screenshot.PNG)
+__Image of virtualbox with a running Ubuntu__
 
 ## INSTALLING UBUNTU
 Successfully installed the Ubuntu on VirtualBox following these steps.
@@ -80,7 +81,8 @@ Successfully installed the Ubuntu on VirtualBox following these steps.
 2. Created a new virtual machine in VirtualBox and selected the downloaded ISO file
 3. followed the installation steps required in the virtual machine
 4. The running of ubuntu in the virtual mahine was confirmed
-![screenshot of the ubuntu on the vm](image/Screen_from_2025-03-31_15-56-14.PNG)
+![screenshot of the ubuntu on the vm](image/Screenshot_of_ubuntu.png)
+
 
 ## INSTALLING MOBAXTERM
 I successfully installed MobaXterm by following the steps
@@ -90,9 +92,10 @@ I successfully installed MobaXterm by following the steps
 3. Opened the installer and followed the on-screen instructions
 4. Launched the installation by confirming MobaXterm.
 ![Mobaxterm image](image/mobaxterm2.PNG)
-_image of the installed MobaXterm_
+__Image of the installed MobaXterm__
 
-7. ## INSTALLING GIT BASH
+
+## INSTALLING GIT BASH
 I successfully installed Git Bash by following the steps
 
 1. Navigated to the [Git website](https://git-scm.com/)
@@ -100,7 +103,9 @@ I successfully installed Git Bash by following the steps
 3. Opened the installer and followed the on-screen instructions
 4. Launched the installation by confirming 
 ![image of Git bash](image/git_bash_screenshot.PNG)
-_image of installed GitBash_
+__Image of installed GitBash__
+
+
 
 ## SETTING UP A GITHUB ACCOUNT
 the setting up of my github account was done successfully following the guide:
@@ -110,5 +115,5 @@ the setting up of my github account was done successfully following the guide:
 1. configured git on my local machine to connect with my github account.
 below is the image of my github account dashboard;
 ![image of the github account dashboard](image/github_dashboard_screenshot.PNGinstallingffdde)
-_Image of GitHub dashboard_
+__Image of GitHub dashboard__
 
